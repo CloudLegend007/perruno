@@ -1,5 +1,5 @@
 package veteriana;
-
+umm guys
 public class VETERIANA {
     public static void main(String[] args) {
     mascota perro1 = new mascota(1,"pepe","bulldog","moteado","hembra");
